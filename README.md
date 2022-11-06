@@ -11,5 +11,4 @@ The project is broken down into multiple steps:
 2. Train the image classifier on your dataset
 3. Use the trained classifier to predict image content
 
-> PS: Please do not forget to drop a star if you like it..
-Thanks allot
+> PS: Please do not forget to give this repo a star
